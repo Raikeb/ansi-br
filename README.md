@@ -3,7 +3,7 @@ Esse projeto tem como intuito efetuar uma alteração simples do teclado ANSI pa
 
 
 Alterações:
-
+```
 altGr + ` = "≠"
 altGr + 1 = "¹"
 altGr + a = "ª"
@@ -13,4 +13,4 @@ altGr + , = "©"
 shift + altGr + , = "¢"
 shift + altGr + / = "¿"
 altGr + spacebar = " " (caracter invisível)
-
+```
